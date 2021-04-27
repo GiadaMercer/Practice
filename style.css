@@ -1,14 +1,25 @@
 h3 {
 	color:#69A2B0;
+	font-family:PT Sans;
 }
 
 h2 {
 	color:#324376;
+	font-family:PT Sans;
+}
+
+h1 {
+	font-family:PT Sans;
 }
 
 body {background-color:#E5D0CC;
 
 }
 
+img {border-color:#08415C;
+	border-width:4px;
+	border-style:solid;
+	border-radius:10%;
 
+}
 
